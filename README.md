@@ -1,5 +1,7 @@
 # Keylogger Project
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7aae0741-4d08-4b49-b36b-3a9eea08caaa" alt="What-is-a-keylogger-03">
+</p>
 This repository contains a simple keylogger implemented in Python using the `pynput` library. The keylogger captures keystrokes and sends them to a remote server using Flask. This project is intended for educational purposes only. Unauthorized use of keylogger software is illegal and unethical. Always obtain explicit consent before using any software that monitors or collects data.
 
 Key Features:
