@@ -1,6 +1,17 @@
 # Keylogger Project
 
-This project demonstrates a simple keylogger implemented in Python using the `pynput` library. The keylogger captures keystrokes and sends them to a remote server using Flask.
+This repository contains a simple keylogger implemented in Python using the `pynput` library. The keylogger captures keystrokes and sends them to a remote server using Flask. This project is intended for educational purposes only. Unauthorized use of keylogger software is illegal and unethical. Always obtain explicit consent before using any software that monitors or collects data.
+
+Key Features:
+- Captures keystrokes and logs them
+- Sends log files to a remote Flask server
+- Runs as a background task
+
+Setup Instructions:
+1. Install required Python packages
+2. Set up the Flask server
+3. Configure the keylogger script
+4. Run the keylogger in a virtual environment using VMware
 
 ## Table of Contents
 
